@@ -1,0 +1,32 @@
+{
+  "name": "dependency-injection-demo",
+  "version": "1.0.0",
+  "description": "A simple demo showing how dependency injection can help when writing and testing a function that parses a cookie string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thawkin3/dependency-injection-demo.git"
+  },
+  "keywords": [
+    "javascript",
+    "dependency",
+    "injection",
+    "unit",
+    "testing"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thawkin3/dependency-injection-demo/issues"
+  },
+  "homepage": "https://github.com/thawkin3/dependency-injection-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
