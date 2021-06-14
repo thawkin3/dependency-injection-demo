@@ -4,7 +4,6 @@
 module.exports = {
   clearMocks: true,
   coverageDirectory: "coverage",
-  // testEnvironment: "jest-environment-jsdom",
-  // testEnvironment: "node",
-  testEnvironment: "jsdom",
+  testEnvironment: "node",
+  // testEnvironment: "jsdom",
 };
